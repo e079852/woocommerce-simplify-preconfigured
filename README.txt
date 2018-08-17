@@ -15,3 +15,5 @@ To bring up the docker image and configure the API keys:
 5. For Sandbox, click on the "Enable Sandbox Mode" checkbox and add your Sandbox Public and Private keys. For Live payments, ensure that "Enable Sandbox Mode" is not checked and add your Live Public and Private keys.
 6. Click on the "Save Changes" button.
 7. On the main Dashboard menu click on "Visit Store" (http://0.0.0.0:8080/?post_type=product) to run transactions.
+
+NB. In the UAT environment, the currency configured in your WooCommerce store must match the currency of the onboarded merchant at Simplify.com
