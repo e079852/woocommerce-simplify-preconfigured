@@ -1,4 +1,4 @@
-This is an installation of WooCommerce with the Simplify plugin that has been preconfigured with a test product to run "out of the box." There are two versions of the installation: WooCommerceDocker-PROD will send transactions to the Production environment at www.simplify.com, while WooCommerceDocker-UAT will send transactions to the UAT environment at uat.simplify.com. The only configuration needed os to add the appropriate API keys. to do so follow the instruction below:
+This is an installation of WooCommerce with the Simplify plugin that has been preconfigured with a test product to run "out of the box." There are two versions of the installation: WooCommerceDocker-PROD will send transactions to the Production environment at www.simplify.com, while WooCommerceDocker-UAT will send transactions to the UAT environment at uat.simplify.com. The only configuration needed is to add the appropriate API keys. To do so follow the instruction below:
 
 WooCommerce version 3.4.4
 Simplify Commerce version 1.4.2
